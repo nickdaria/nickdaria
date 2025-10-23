@@ -7,4 +7,4 @@
 
 # Website & Contact
 - 🌎 [nickdaria.com](https://www.nickdaria.com)
-- 📫 Feel free to email me: [me@nickdaria.com](mailto:contact@nickdaria.com)
+- 📫 Feel free to email me: [contact@nickdaria.com](mailto:contact@nickdaria.com)
