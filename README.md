@@ -1,3 +1,4 @@
+![](resources/banner.png)
 # 👋 Hi, I'm Nick Daria 
 - 💼 Vehicle engineer at [HP Tuners](https://www.hptuners.com/) specializing in embedded reverse engineering
 - 💼 Software engineer at [Kinematix Engineering](https://www.kinematixengineering.com/) specializing in full-stack development for embedded control applications
